@@ -7,7 +7,10 @@ Circuit Diagram
 ![](https://github.com/cpeibrahem/Electric-Control-Circuit-of-5-Servo-Motors-with-Potentiometers/blob/main/image/Circuit%20diagram.PNG)
 
 ### Demo :
-https://user-images.githubusercontent.com/46464413/128631399-77392473-93c6-42a2-b79a-1af2ed531cf1.mp4
+
+
+https://user-images.githubusercontent.com/46464413/128632453-b03517ab-111d-4cfa-a058-d385c6afccc8.mp4
+
 
 Circuit Components List:
 * Bread Board (1)

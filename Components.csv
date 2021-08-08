@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"Bat2",1,"4 batteries, AA, yes 1.5V Battery"
+"U1",1," Arduino Uno R3"
+"SERVO1, SERVO2, SERVO3, SERVO4, SERVO5",5,"Positional Micro Servo"
+"Rpot1, Rpot2, Rpot3, Rpot4, Rpot5",5,"250 kΩ Potentiometer"
